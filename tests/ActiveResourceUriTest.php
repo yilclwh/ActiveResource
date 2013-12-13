@@ -10,27 +10,63 @@ class ActiveResourceUriTest extends PHPUnit_Framework_TestCase
     }
 
 
-    public function testGetInflectedResourceName(){}
+    public function testGetInflectedResourceName()
+    {
 
-    public function testGetSetResourceName(){}
+    }
 
-    public function testGetCollectionUri(){}
+    public function testGetSetResourceName()
+    {
 
-    public function testGetNestedCollectionUri(){}
+    }
 
-    public function testGetInstanceUri(){}
+    public function testGetCollectionUri()
+    {
 
-    public function testGetNestedInstanceUri(){}
+    }
 
-    public function testGetCreateUri(){}
+    public function testGetNestedCollectionUri()
+    {
 
-    public function testGetNestedCreateUri(){}
+    }
 
-    public function testGetUpdateUri(){}
+    public function testGetInstanceUri()
+    {
 
-    public function testGetNestedUpdateUri(){}
+    }
 
-    public function testGetDeleteUri(){}
+    public function testGetNestedInstanceUri()
+    {
 
-    public function testGetNestedDeleteUri(){}
+    }
+
+    public function testGetCreateUri()
+    {
+
+    }
+
+    public function testGetNestedCreateUri()
+    {
+
+    }
+
+    public function testGetUpdateUri()
+    {
+
+    }
+
+    public function testGetNestedUpdateUri()
+    {
+
+    }
+
+    public function testGetDeleteUri()
+    {
+
+    }
+
+    public function testGetNestedDeleteUri()
+    {
+
+    }
 }

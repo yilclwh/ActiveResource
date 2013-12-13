@@ -22,12 +22,23 @@ class ActiveResourceRequestTest extends PHPUnit_Framework_TestCase
     }
 
 
-    public function testParseResponseData(){}
+    public function testParseResponseData()
+    {
 
-    public function testSetTransportLanguage(){}
+    }
 
-    public function testParseResponseStringToObj(){}
+    public function testSetTransportLanguage()
+    {
 
-    public function testSendRequest(){}
+    }
 
+    public function testParseResponseStringToObj()
+    {
+
+    }
+
+    public function testSendRequest()
+    {
+
+    }
 }

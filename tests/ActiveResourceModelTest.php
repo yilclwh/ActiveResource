@@ -10,33 +10,78 @@ class ActiveResourceModelTest extends PHPUnit_Framework_TestCase
     }
 
 
-    public function testGetter(){}
+    public function testGetter()
+    {
 
-    public function testSetter(){}
+    }
 
-    public function testInflateFromArray(){}
+    public function testSetter()
+    {
 
-    public function testConstructorInflateFromArray(){}
+    }
 
-    public function testBasicFindAll(){}
+    public function testInflateFromArray()
+    {
 
-    public function testFindAllWithConditions(){}
+    }
 
-    public function testFullFindAll(){}
+    public function testConstructorInflateFromArray()
+    {
 
-    public function testFindById(){}
+    }
 
-    public function testGetId(){}
+    public function testBasicFindAll()
+    {
 
-    public function testSaveFunction(){}
+    }
 
-    public function testCreateShouldSave(){}
+    public function testFindAllWithConditions()
+    {
 
-    public function testCreateShouldFail(){}
+    }
 
-    public function testUpdateShouldSave(){}
+    public function testFullFindAll()
+    {
 
-    public function testUpdateShouldFail(){}
+    }
 
-    public function testDestroy(){}
+    public function testFindById()
+    {
+
+    }
+
+    public function testGetId()
+    {
+
+    }
+
+    public function testSaveFunction()
+    {
+
+    }
+
+    public function testCreateShouldSave()
+    {
+
+    }
+
+    public function testCreateShouldFail()
+    {
+
+    }
+
+    public function testUpdateShouldSave()
+    {
+
+    }
+
+    public function testUpdateShouldFail()
+    {
+
+    }
+
+    public function testDestroy()
+    {
+
+    }
 }

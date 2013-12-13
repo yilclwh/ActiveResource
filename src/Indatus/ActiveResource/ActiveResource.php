@@ -939,7 +939,7 @@ class ActiveResource
 
                     //not found
                     $instance = false;
-                } else if($event['response']->getStatusCode() == 500) {
+                } else if ($event['response']->getStatusCode() == 500) {
                     $event->stopPropagation();
                     //not found
                     $instance = false;

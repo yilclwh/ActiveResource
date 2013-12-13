@@ -48,13 +48,16 @@ use Illuminate\Support\Facades\Facade;
   *
   * @author Brian Webb <bwebb@indatus.com>
   */
-class ActiveResource extends Facade {
+class ActiveResource extends Facade
+{
  
   /**
    * Get the registered name of the component.
    *
    * @return string
    */
-  protected static function getFacadeAccessor() { return 'active-resource'; }
- 
+    protected static function getFacadeAccessor()
+    {
+        return 'active-resource';
+    }
 }
